@@ -1,0 +1,23 @@
+img {
+	width: 50px;
+	position: absolute;
+	top: 150px;
+	left: 100px;
+}
+h3 {
+	margin: 10px 0;
+}
+h1 {
+	position: relative;
+	z-index: 1;
+	margin-left: 20px;
+}
+#input {
+	width: 250px;
+	height: 100px;
+	position: absolute;
+	top: 150px;
+	left: 200px;
+	background: greenyellow;
+	text-align: center;
+}
